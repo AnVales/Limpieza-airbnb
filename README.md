@@ -52,8 +52,8 @@ A partir del análisis:
 ## 🚀 Cómo ejecutar
 1. Clonar este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/airbnb-analysis.git
-   cd airbnb-analysis
+   git clone https://github.com/AnVales/Limpieza-airbnb.git
+   cd Limpieza-airbnb
 
 ---
 
